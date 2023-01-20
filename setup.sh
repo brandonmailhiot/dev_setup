@@ -3,6 +3,7 @@
 chmod +x ./*/*.sh
 
 ./mac/dock.sh
+./mac/finder.sh
 ./mac/homebrew.sh
 
 ./terminal/zsh.sh
