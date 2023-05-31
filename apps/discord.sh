@@ -1,4 +1,4 @@
 #! /bin/bash
 
 # Install Discord
-brew cask install discord
+brew install --cask discord

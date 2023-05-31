@@ -1,4 +1,4 @@
 #! /bin/bash
 
 # Install Zoom
-brew cask install zoom
+brew install --cask zoom
